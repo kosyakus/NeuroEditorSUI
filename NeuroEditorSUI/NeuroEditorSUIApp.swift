@@ -11,7 +11,7 @@ import SwiftUI
 struct NeuroEditorSUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NeuroFaceEditorView()
         }
     }
 }
